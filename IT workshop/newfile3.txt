@@ -1,0 +1,8 @@
+Physical partition of hard-disk is known as Drive.
+Logical subdivision of a hard disk space is called a Folder or Directory.
+A File is a container containing relevant information.
+Romeo-Juliet is a masterpiece
+
+PHYSICAL PARTITION OF HARD-DISK IS KNOWN AS DRIVE.
+LOGICAL SUBDIVISION OF A HARD DISK SPACE IS CALLED A FOLDER OR DIRECTORY.
+A FILE IS A CONTAINER CONTAINING RELEVANT INFORMATION.
